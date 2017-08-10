@@ -1,0 +1,11 @@
+*{ padding:0px; margin:0px;}
+ul{margin:0px;padding:0px;}
+li{list-style-type:none;margin:0px;padding:0px;}
+.fl{ float:left;}
+.fr{ float:right;}
+.cl{ clear:both;}
+.zz {margin-top: 0px;margin-right: auto;margin-bottom: 0px;margin-left: auto;}
+.tc{ text-align:center;}
+.jiac{ font-weight:bold;}
+.cur{cursor: pointer;}
+img{ border:0px;}

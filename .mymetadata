@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSPWork"
+  id="myeclipse.1480933006492"
+  context-root="/JSPWork"
+  j2ee-spec="5.0"
+  archive="JSPWork.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
